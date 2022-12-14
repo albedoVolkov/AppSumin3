@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppSumin3</string>
+    <string name="textView_activity_main">it is my first project</string>
 </resources>
